@@ -1,0 +1,53 @@
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.exe.config
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.exe
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.pdb
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csprojAssemblyReference.cache
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Properties.Resources.resources
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.GenerateResource.cache
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.CoreCompileInputs.cache
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.exe
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.pdb
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Form1.resources
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.agregar.resources
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.mostrar.resources
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.eliminar.resources
+C:\Users\eric-\source\repos\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.modificar.resources
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.exe.config
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.exe
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.pdb
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csprojAssemblyReference.cache
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.agregar.resources
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.eliminar.resources
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Form1.resources
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.modificar.resources
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.mostrar.resources
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Properties.Resources.resources
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.GenerateResource.cache
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.CoreCompileInputs.cache
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.exe
+C:\Users\eric-\Desktop\PROYECTO_ESG\PROYECTO_ESG\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.pdb
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.exe.config
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.exe
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.pdb
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Inicio.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.agregarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.eliminarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.mostrarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Movimientos.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.agregar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.eliminar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Form1.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.modificar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.mostrar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.exe
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.pdb
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.modificarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\itextsharp.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\itextsharp.xml
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.csproj.CopyComplete

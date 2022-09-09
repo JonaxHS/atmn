@@ -1,0 +1,94 @@
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\itextsharp.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\itextsharp.xml
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.agregarFac.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.RegProv.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Inicio.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.eliminarFac.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.modificarFac.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.mostrarFac.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Facturas.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.agregarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.eliminarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.modificarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.mostrarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Movimientos.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.agregar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.eliminar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Form1.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.modificar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.mostrar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.InicioSesion.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.RegUsuarios.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Administracion.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.LoginAdmin.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\ClosedXML.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\ExcelNumberFormat.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\ClosedXML.pdb
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\ClosedXML.xml
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\ExcelNumberFormat.xml
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\SCA.exe.config
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\SCA.exe
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\SCA.pdb
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SCA.exe
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SCA.pdb
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\EntityFramework.xml
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.ListaUsuarios.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Administracion.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.ListaUsuarios.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.LoginAdmin.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.RegProv.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Inicio.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.agregarFac.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.eliminarFac.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.modificarFac.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.mostrarFac.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Facturas.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.InicioSesion.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.agregarMov.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.eliminarMov.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.modificarMov.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.mostrarMov.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Movimientos.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.agregar.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.eliminar.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Form1.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.modificar.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.mostrar.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\SCA.exe.config
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\SCA.exe
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\SCA.pdb
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\ClosedXML.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\ExcelNumberFormat.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\itextsharp.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\ClosedXML.pdb
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\ClosedXML.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\EntityFramework.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\ExcelNumberFormat.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Release\itextsharp.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SistemaSeguridad.RegUsuarios.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\Bitacoras.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SCA.exe
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Release\SCA.pdb

@@ -1,0 +1,78 @@
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.exe.config
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.exe
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\sistemaClientes.pdb
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\itextsharp.dll
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\bin\Debug\itextsharp.xml
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Inicio.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.agregarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.eliminarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.modificarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.mostrarMov.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Movimientos.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.agregar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.eliminar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Form1.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.modificar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.mostrar.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.exe
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.pdb
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.agregarFac.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.eliminarFac.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.modificarFac.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.mostrarFac.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.Facturas.resources
+C:\Users\Jonathan\Desktop\Ejemplo sistema\sistemaClientes\sistemaClientes\obj\Debug\sistemaClientes.RegProv.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\SCA.exe.config
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\SCA.exe
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\SCA.pdb
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\ClosedXML.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\itextsharp.dll
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\ClosedXML.pdb
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\ClosedXML.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\EntityFramework.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\bin\Debug\itextsharp.xml
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.Administracion.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.ListaUsuarios.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.LoginAdmin.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.RegProv.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.RegUsuarios.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.Inicio.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.agregarFac.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.eliminarFac.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.modificarFac.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.mostrarFac.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.Facturas.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.InicioSesion.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.agregarMov.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.eliminarMov.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.modificarMov.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.mostrarMov.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.Movimientos.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.agregar.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.eliminar.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.Form1.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.modificar.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.mostrar.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SistemaSeguridad.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\Bitacoras.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SCA.exe
+C:\Users\Jonathan\Desktop\Sistema\sistemaClientes\sistemaClientes\obj\Debug\SCA.pdb

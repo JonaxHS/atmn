@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{56AB312A-132D-46BC-8D19-48662165DB92}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemaSeguridad</RootNamespace>
+    <AssemblyName>SCA</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML, Version=0.96.0.0, Culture=neutral, PublicKeyToken=fd1eb21b62ae805b, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.96.0\lib\net46\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.16.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.16.0\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.1.0.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.1.0\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>..\..\..\..\Downloads\microsoft.office.interop.excel\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracion\Administracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Administracion.Designer.cs">
+      <DependentUpon>Administracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\ListaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\ListaUsuarios.Designer.cs">
+      <DependentUpon>ListaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\LoginAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\LoginAdmin.Designer.cs">
+      <DependentUpon>LoginAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\RegProv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\RegProv.Designer.cs">
+      <DependentUpon>RegProv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\RegUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\RegUsuarios.Designer.cs">
+      <DependentUpon>RegUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturas\agregarFac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturas\agregarFac.Designer.cs">
+      <DependentUpon>agregarFac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturas\eliminarFac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturas\eliminarFac.Designer.cs">
+      <DependentUpon>eliminarFac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturas\modificarFac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturas\modificarFac.Designer.cs">
+      <DependentUpon>modificarFac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturas\mostrarFac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturas\mostrarFac.Designer.cs">
+      <DependentUpon>mostrarFac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturas\Facturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturas\Facturas.Designer.cs">
+      <DependentUpon>Facturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioSesion.Designer.cs">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\agregarMov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\agregarMov.Designer.cs">
+      <DependentUpon>agregarMov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\eliminarMov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\eliminarMov.Designer.cs">
+      <DependentUpon>eliminarMov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\modificarMov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\modificarMov.Designer.cs">
+      <DependentUpon>modificarMov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\mostrarMov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\mostrarMov.Designer.cs">
+      <DependentUpon>mostrarMov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Movimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Movimientos.Designer.cs">
+      <DependentUpon>Movimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasedeDatos.cs" />
+    <Compile Include="Proveedores\agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\agregar.Designer.cs">
+      <DependentUpon>agregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\eliminar.Designer.cs">
+      <DependentUpon>eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\modificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\modificar.Designer.cs">
+      <DependentUpon>modificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\mostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\mostrar.Designer.cs">
+      <DependentUpon>mostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Administracion\Administracion.resx">
+      <DependentUpon>Administracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\ListaUsuarios.resx">
+      <DependentUpon>ListaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\LoginAdmin.resx">
+      <DependentUpon>LoginAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\RegProv.resx">
+      <DependentUpon>RegProv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\RegUsuarios.resx">
+      <DependentUpon>RegUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\RegUsuarios.resx">
+      <DependentUpon>RegUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\agregarFac.resx">
+      <DependentUpon>agregarFac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\eliminarFac.resx">
+      <DependentUpon>eliminarFac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\modificarFac.resx">
+      <DependentUpon>modificarFac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\mostrarFac.resx">
+      <DependentUpon>mostrarFac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\Facturas.resx">
+      <DependentUpon>Facturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioSesion.resx">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\agregarMov.resx">
+      <DependentUpon>agregarMov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\eliminarMov.resx">
+      <DependentUpon>eliminarMov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\modificarMov.resx">
+      <DependentUpon>modificarMov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\mostrarMov.resx">
+      <DependentUpon>mostrarMov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Movimientos.resx">
+      <DependentUpon>Movimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\agregar.resx">
+      <DependentUpon>agregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\eliminar.resx">
+      <DependentUpon>eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\modificar.resx">
+      <DependentUpon>modificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\mostrar.resx">
+      <DependentUpon>mostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings2.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondito2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondito3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondito4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertarempleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminarempleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificarempleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actualizarempleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PinClipart.com_hairdressing-images-clip-art_502598.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregarrr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevorr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUSCARR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ELIMINARR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ASDADASDSADASD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MODIFICAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modoficar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GURAD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregarusuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminarusuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificarusuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actualizarusuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscarempleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminarusuariob.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscarempleado1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\escritura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contacto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recargar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar-cuenta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\policeman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ATMICH-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ATMICH-logo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar-carpeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar-sesion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cambiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojo-abierto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojo-abierto2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
